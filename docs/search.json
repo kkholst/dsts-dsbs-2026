@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "page.html",
+    "href": "page.html",
+    "title": "Quarto HTML Basics",
+    "section": "",
+    "text": "This a Quarto document. To learn more about Quarto see https://quarto.org.\nClick the Code button in the header to see the full source code of this document.\nHere we call the R summary() function—the function’s output is included immediately below:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "page.html#introduction",
+    "href": "page.html#introduction",
+    "title": "Quarto HTML Basics",
+    "section": "",
+    "text": "This a Quarto document. To learn more about Quarto see https://quarto.org.\nClick the Code button in the header to see the full source code of this document.\nHere we call the R summary() function—the function’s output is included immediately below:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "page.html#plot-output",
+    "href": "page.html#plot-output",
+    "title": "Quarto HTML Basics",
+    "section": "Plot Output",
+    "text": "Plot Output\nYou can also embed plots, for example:\n\n\nCode\nlibrary(ggplot2)\ndat &lt;- data.frame(cond = rep(c(\"A\", \"B\"), each=10),\n                  xvar = 1:20 + rnorm(20,sd=3),\n                  yvar = 1:20 + rnorm(20,sd=3))\n\nggplot(dat, aes(x=xvar, y=yvar)) +\n    geom_point(shape=1) + \n    geom_smooth() \n\n\n\n\n\n\n\n\nFigure 1: Pressure\n\n\n\n\n\nNote that the code-fold: true parameter was added to the code chunk to hide the code by default (click “Code” above the plot to see the code).\nThe use of the label and fig-cap options make this a cross-referenceable figure (see Figure 1)."
+  },
+  {
+    "objectID": "page.html#interactivity",
+    "href": "page.html#interactivity",
+    "title": "Quarto HTML Basics",
+    "section": "Interactivity",
+    "text": "Interactivity\nYou can also add interactive plots. For example:\n\nlibrary(dygraphs)\ndygraph(nhtemp) %&gt;% \n  dyRangeSelector(dateWindow = c(\"1920-01-01\", \"1960-01-01\"))\n\n\n\n\n\n\n\nFigure 2: New Haven Temperatures"
+  },
+  {
+    "objectID": "page.html#tables",
+    "href": "page.html#tables",
+    "title": "Quarto HTML Basics",
+    "section": "Tables",
+    "text": "Tables\nUse the knitr::kable() function to print tables as HTML:\n\nknitr::kable(head(ggplot2::diamonds))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncarat\ncut\ncolor\nclarity\ndepth\ntable\nprice\nx\ny\nz\n\n\n\n\n0.23\nIdeal\nE\nSI2\n61.5\n55\n326\n3.95\n3.98\n2.43\n\n\n0.21\nPremium\nE\nSI1\n59.8\n61\n326\n3.89\n3.84\n2.31\n\n\n0.23\nGood\nE\nVS1\n56.9\n65\n327\n4.05\n4.07\n2.31\n\n\n0.29\nPremium\nI\nVS2\n62.4\n58\n334\n4.20\n4.23\n2.63\n\n\n0.31\nGood\nJ\nSI2\n63.3\n58\n335\n4.34\n4.35\n2.75\n\n\n0.24\nVery Good\nJ\nVVS2\n62.8\n57\n336\n3.94\n3.96\n2.48"
+  },
+  {
+    "objectID": "page.html#latex-math",
+    "href": "page.html#latex-math",
+    "title": "Quarto HTML Basics",
+    "section": "LaTeX Math",
+    "text": "LaTeX Math\nYou can also include LaTeX math:\n\nP\\left(A=2\\middle|\\frac{A^2}{B}&gt;4\\right)"
+  }
+]
