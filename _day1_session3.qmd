@@ -1,0 +1,124 @@
+### Session 3 — Statisticians in an AI Era {#session-ai}
+
+::: {.session .session--ai}
+
+::: {.session__head}
+[Session 3 · 14:00 – 16:00]{.session__tag}
+
+```{=html}
+<h4 class="session__title">Statisticians in an AI Era</h4>
+```
+
+::: {.session__chair}
+Chair: **[TBA]{.tba}** · Machine learning, foundation models and the role of the statistician
+
+:::
+
+:::
+
+::: {.session__body}
+
+::: {.slot .slot--feature}
+[14:00 – 14:45]{.slot__time}
+
+::: {.slot__body}
+[Keynote: [Title TBA]{.tba}]{.slot__title}
+[[Keynote speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[14:45 – 15:10]{.slot__time}
+
+::: {.slot__body}
+[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[15:10 – 15:35]{.slot__time}
+
+::: {.slot__body}
+[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[15:35 – 16:00]{.slot__time}
+
+::: {.slot__body}
+[Panel: What should statisticians do differently?]{.slot__title}
+[Panellists [TBA]{.tba}]{.slot__meta}
+
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.slot .slot--break}
+[16:00 – 16:30]{.slot__time}
+
+::: {.slot__body}
+[Coffee and posters]{.slot__title}
+
+:::
+
+:::
+
+::: {.slot}
+[16:30 – 17:30]{.slot__time}
+
+::: {.slot__body}
+[Annual general meetings (DSTS and DSBS, parallel sessions)]{.slot__title}
+[Members only]{.slot__meta}
+
+:::
+
+:::
+
+::: {.slot .slot--feature}
+[18:30 – ]{.slot__time}
+
+::: {.slot__body}
+[Conference dinner]{.slot__title}
+[Venue [TBA]{.tba} · Separate sign-up at registration]{.slot__meta}
+
+:::
+
+:::
+

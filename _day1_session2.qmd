@@ -1,0 +1,91 @@
+### Session 2 — Randomised Studies {#session-randomised}
+
+::: {.session .session--randomised}
+
+::: {.session__head}
+[Session 2 · 11:35 – 13:00]{.session__tag}
+
+```{=html}
+<h4 class="session__title">Randomised Studies</h4>
+```
+
+::: {.session__chair}
+Chair: **[TBA]{.tba}** · Trial design, estimands and adaptive methods
+
+:::
+
+:::
+
+::: {.session__body}
+
+::: {.slot}
+[11:35 – 12:05]{.slot__time}
+
+::: {.slot__body}
+[Invited talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[12:05 – 12:30]{.slot__time}
+
+::: {.slot__body}
+[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[12:30 – 12:55]{.slot__time}
+
+::: {.slot__body}
+[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.slot .slot--break}
+[13:00 – 14:00]{.slot__time}
+
+::: {.slot__body}
+[Lunch]{.slot__title}
+
+:::
+
+:::
+

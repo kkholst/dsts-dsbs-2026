@@ -1,0 +1,119 @@
+### Session 4 — Topics in Time-to-Event {#session-time-to-event}
+
+::: {.session .session--tte}
+
+::: {.session__head}
+[Session 4 · 09:15 – 11:30]{.session__tag}
+
+```{=html}
+<h4 class="session__title">Topics in Time-to-Event</h4>
+```
+
+::: {.session__chair}
+Chair: **[TBA]{.tba}** · Survival analysis, competing risks and multistate models
+
+:::
+
+:::
+
+::: {.session__body}
+
+::: {.slot}
+[09:15 – 09:45]{.slot__time}
+
+::: {.slot__body}
+[Invited talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[09:45 – 10:10]{.slot__time}
+
+::: {.slot__body}
+[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot .slot--break}
+[10:10 – 10:35]{.slot__time}
+
+::: {.slot__body}
+[Coffee break]{.slot__title}
+
+:::
+
+:::
+
+::: {.slot}
+[10:35 – 11:00]{.slot__time}
+
+::: {.slot__body}
+[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[11:00 – 11:30]{.slot__time}
+
+::: {.slot__body}
+[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.slot .slot--break}
+[11:30 – 12:30]{.slot__time}
+
+::: {.slot__body}
+[Lunch]{.slot__title}
+
+:::
+
+:::

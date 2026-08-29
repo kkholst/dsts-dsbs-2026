@@ -1,0 +1,130 @@
+### Session 5 — Topics in Pharmaceutical Statistics {#session-pharma}
+
+::: {.session .session--pharma}
+
+::: {.session__head}
+[Session 5 · 12:30 – 15:00]{.session__tag}
+
+```{=html}
+<h4 class="session__title">Topics in Pharmaceutical Statistics</h4>
+```
+
+::: {.session__chair}
+Chair: **[TBA]{.tba}** · Regulatory science, drug development and biomarkers
+
+:::
+
+:::
+
+::: {.session__body}
+
+::: {.slot}
+[12:30 – 13:00]{.slot__time}
+
+::: {.slot__body}
+[Invited talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[13:00 – 13:25]{.slot__time}
+
+::: {.slot__body}
+[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[13:25 – 13:50]{.slot__time}
+
+::: {.slot__body}
+[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot .slot--break}
+[13:50 – 14:10]{.slot__time}
+
+::: {.slot__body}
+[Coffee break]{.slot__title}
+
+:::
+
+:::
+
+::: {.slot}
+[14:10 – 14:35]{.slot__time}
+
+::: {.slot__body}
+[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[14:35 – 15:00]{.slot__time}
+
+::: {.slot__body}
+[Discussion and outlook]{.slot__title}
+
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.slot}
+[15:00 – 15:20]{.slot__time}
+
+::: {.slot__body}
+[Closing remarks and award for best contributed talk]{.slot__title}
+[Chairs of DSTS and DSBS]{.slot__meta}
+
+:::
+
+:::

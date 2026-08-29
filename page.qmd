@@ -1,0 +1,158 @@
+---
+title: "Scientific Programme"
+subtitle: "Joint DSTS / DSBS Meeting 2026"
+pagetitle: "Scientific Programme — Joint DSTS/DSBS Meeting 2026"
+toc: true
+toc-title: "Programme"
+toc-depth: 3
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    grid:
+      body-width: 1000px
+    anchor-sections: true
+    link-external-newwindow: true
+---
+
+```{=html}
+<div class="meeting-banner">
+  <div class="meeting-banner__logos">
+    <img class="logo-dsts" src="images/dsts-logo.png" alt="DSTS — Dansk Statistisk Selskab">
+    <!-- <span class="banner-amp">&amp;</span> -->
+    <img class="logo-dsbs" src="images/dsbs-logo.svg" alt="DSBS — Dansk Selskab for Biofarmaceutisk Statistik">
+    <!-- <span class="banner-rule" aria-hidden="true"></span> -->
+    <span class="banner-host">
+      <span class="banner-host__label">Hosted by</span>
+      <img class="logo-nn" src="images/nn-logo.svg" alt="Novo Nordisk">
+    </span>
+  </div>
+  <p class="meeting-banner__eyebrow">Joint Two-day Meeting 2026</p>
+  <h1>Two Days of Statistics</h1>
+  <p class="meeting-banner__tagline">
+    The Danish Society for Statistics (DSTS) and the Danish Society
+    for Biopharmaceutical Statistics (DSBS) invite you to a two-day scientific
+    meeting spanning causal inference, clinical trials, 
+    survival analysis, and AI, hosted by Novo Nordisk.
+  </p>
+</div>
+
+<ul class="facts">
+  <li><span class="facts__label">Dates</span>
+    <span class="facts__value">
+      19th - 20th November, 2026
+  </span></li>
+  
+  <li><span class="facts__label">Venue</span>
+    <span class="facts__value">
+        Novo Nordisk Gentofte <br>
+        Niels Steensensvej 2, DK-2920 Gentofte
+  </span></li>
+  
+  <li><span class="facts__label">Registration</span>
+      <span class="facts__value">Opens <span class="tba">TBA</span></span></li>
+
+  <!-- <li><span class="facts__label">Abstracts</span> -->
+  <!--     <span class="facts__value">Deadline <span class="tba">TBA</span></span></li> -->
+</ul>
+```
+
+## Day 1 {#day-1}
+
+::: {.day__head}
+[Day 1]{.day__no} · 
+[Thursday, 19th Novemeber]{.day__date}
+[Observational studies · Randomised studies · AI]{.day__note}
+:::
+
+:::: {.slot .slot--break}
+[09:00 – 09:30]{.slot__time}
+
+::: {.slot__body}
+[Registration, coffee and pastries]{.slot__title}
+:::
+
+::::
+
+:::: {.slot}
+[09:30 – 09:45]{.slot__time}
+
+::: {.slot__body}
+[Welcome and opening remarks]{.slot__title}
+[Chairs of DSTS and DSBS]{.slot__meta}
+:::
+
+::::
+
+{{< include _day1_session1.qmd >}}
+
+:::: {.slot .slot--break}
+[11:15 – 11:35]{.slot__time}
+
+::: {.slot__body}
+[Coffee break]{.slot__title}
+:::
+
+::::
+
+## Day 2 {#day-2}
+
+::: {.day__head}
+[Day 1]{.day__no} · 
+[Friday, 20th Novemeber]{.day__date}
+[Time-to-event · Pharmaceutical statistics]{.day__note}
+
+:::
+
+::: {.slot .slot--break}
+[08:45 – 09:15]{.slot__time}
+
+::: {.slot__body}
+[Morning coffee]{.slot__title}
+
+:::
+
+:::
+
+## Practical information {#practical}
+
+<!-- ::: {.callout-tip appearance="simple"} -->
+<!-- ## Call for -->
+<!-- ::: -->
+
+::: {.organisers}
+
+::: {.organisers__grid}
+
+::: {.organisers__col}
+**Program committee**
+
+- Klaus Kähler Holst (Novo Nordisk)
+- Henrik Ravn (Novo Nordisk)
+- Corine  (DSBS - Lundbeck)
+- Birgitte (DSTS - Zealand Pharma)
+
+:::
+
+::: {.organisers__col}
+**Registration**
+
+- Members: [TBA]{.tba}
+- Non-members: [TBA]{.tba}
+- Students / PhD: [TBA]{.tba}
+- Includes lunch and coffee
+
+:::
+
+::: {.organisers__col}
+**Contact**
+
+- Email: [TBA]{.tba}
+- DSTS: <https://dsts.dk>
+- DSBS: <https://dsbs.dk>
+
+:::
+
+:::
+
+:::

@@ -1,0 +1,80 @@
+### Session 1 — Observational Studies {#session-observational}
+
+::: {.session .session--observational}
+
+::: {.session__head}
+[Session 1 · 09:45 – 11:15]{.session__tag}
+
+```{=html}
+<h4 class="session__title">Observational Studies</h4>
+```
+
+::: {.session__chair}
+Chair: **[TBA]{.tba}** · Causal inference, confounding and real-world evidence
+
+:::
+
+:::
+
+::: {.session__body}
+
+::: {.slot}
+[09:45 – 10:15]{.slot__time}
+
+::: {.slot__body}
+[Target trial emulation versus real trials, concepts and challenges]{.slot__title}
+[Christian Torp-Pedersen · Steno Diabetes Center Copenhagen]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[10:15 – 10:40]{.slot__time}
+
+::: {.slot__body}
+[Outcome-adapted Automatic Debiased Machine Learning]{.slot__title}
+[Asger Waagepetersen & Asbjørn Risom · Department of Mathematical Sciences, University of Copenhagen]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+::: {.slot}
+[10:40 – 11:05]{.slot__time}
+
+::: {.slot__body}
+[[Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalised.
+
+</details>
+
+:::
+
+:::
+
+:::
+
+:::

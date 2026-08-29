@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - images/
+
+website:
+  title: "DSTS &amp; DSBS 2026"
+  description: "Joint annual meeting of the Danish Society for Theoretical Statistics and the Danish Society for Biopharmaceutical Statistics."
+  # No navbar - the page has its own banner and a table of contents.
+  search: false
+  page-footer:
+    center: "Joint DSTS / DSBS Meeting 2026"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

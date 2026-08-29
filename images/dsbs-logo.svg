@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  PLACEHOLDER LOGO - replace this file with the official DSBS logo.
+  Keep the filename (images/dsbs-logo.svg) or update the path in page.qmd.
+  A PNG works too: save as images/dsbs-logo.png and edit the <img src> in page.qmd.
+
+  Transparent background (no white fill, no frame) so it sits on the banner
+  tint the same way the DSTS and Novo Nordisk logos do.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" role="img" aria-label="Danish Society for Biopharmaceutical Statistics">
+  <title>DSBS (placeholder logo)</title>
+  <text x="0" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" letter-spacing="2" fill="#12507b">DSBS</text>
+  <text x="1" y="60" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#4a4a4a">Danish Society for</text>
+  <text x="1" y="76" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#4a4a4a">Biopharmaceutical Statistics</text>
+</svg>
