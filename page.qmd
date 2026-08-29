@@ -46,7 +46,7 @@ format:
   <li><span class="facts__label">Venue</span>
     <span class="facts__value">
         Novo Nordisk Gentofte <br>
-        Niels Steensensvej 2, DK-2920 Gentofte
+        Niels Steensensvej 2, Gentofte
   </span></li>
   
   <li><span class="facts__label">Registration</span>
@@ -65,11 +65,12 @@ format:
 [Observational studies · Randomised studies · AI]{.day__note}
 :::
 
-:::: {.slot .slot--break}
+<!-- :::: {.slot .slot--break} -->
+:::: {.slot}
 [09:00 – 09:30]{.slot__time}
 
 ::: {.slot__body}
-[Registration, coffee and pastries]{.slot__title}
+[Arrival and registration]{.slot__title}
 :::
 
 ::::
@@ -90,7 +91,31 @@ format:
 [11:15 – 11:35]{.slot__time}
 
 ::: {.slot__body}
-[Coffee break]{.slot__title}
+[Break]{.slot__title}
+:::
+
+::::
+
+{{< include _day1_session2.qmd >}}
+
+:::: {.slot .slot--break}
+[11:15 – 11:35]{.slot__time}
+
+::: {.slot__body}
+[Break]{.slot__title}
+:::
+
+::::
+
+{{< include _day1_session3.qmd >}}
+
+:::: {.slot .slot--feature}
+[18:30 – ]{.slot__time}
+
+::: {.slot__body}
+[Conference dinner]{.slot__title}
+[Venue: [Bernstoff Slot](https://bernstorffslot.dk/)]{.slot__meta}
+
 :::
 
 ::::
@@ -98,21 +123,36 @@ format:
 ## Day 2 {#day-2}
 
 ::: {.day__head}
-[Day 1]{.day__no} · 
+[Day 2]{.day__no} · 
 [Friday, 20th Novemeber]{.day__date}
 [Time-to-event · Pharmaceutical statistics]{.day__note}
-
 :::
 
-::: {.slot .slot--break}
-[08:45 – 09:15]{.slot__time}
+{{< include _day2_session1.qmd >}}
+
+
+:::: {.slot .slot--break}
+[11:15 – 11:35]{.slot__time}
 
 ::: {.slot__body}
-[Morning coffee]{.slot__title}
-
+[Break]{.slot__title}
 :::
 
-:::
+::::
+
+{{< include _day2_session2.qmd >}}
+
+<!-- ::: {.slot} -->
+<!-- [15:00 – 15:20]{.slot__time} -->
+
+<!-- ::: {.slot__body} -->
+<!-- [Closing remarks and award for best contributed talk]{.slot__title} -->
+<!-- [Chairs of DSTS and DSBS]{.slot__meta} -->
+
+<!-- ::: -->
+
+<!-- ::: -->
+
 
 ## Practical information {#practical}
 
@@ -129,8 +169,8 @@ format:
 
 - Klaus Kähler Holst (Novo Nordisk)
 - Henrik Ravn (Novo Nordisk)
-- Corine  (DSBS - Lundbeck)
-- Birgitte (DSTS - Zealand Pharma)
+- Corine Baayen (DSBS - Lundbeck)
+- Birgitte Biilmann Rønn (DSTS - Zealand Pharma)
 
 :::
 

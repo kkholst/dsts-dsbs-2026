@@ -1,24 +1,24 @@
 ### Session 2 — Randomised Studies {#session-randomised}
 
-::: {.session .session--randomised}
+:::::: {.session .session--randomised}
 
-::: {.session__head}
+::::: {.session__head}
 [Session 2 · 11:35 – 13:00]{.session__tag}
 
 ```{=html}
 <h4 class="session__title">Randomised Studies</h4>
 ```
 
-::: {.session__chair}
+:::: {.session__chair}
 Chair: **[TBA]{.tba}** · Trial design, estimands and adaptive methods
 
-:::
+::::
 
-:::
+:::::
 
-::: {.session__body}
+::::: {.session__body}
 
-::: {.slot}
+:::: {.slot}
 [11:35 – 12:05]{.slot__time}
 
 ::: {.slot__body}
@@ -35,9 +35,9 @@ speaker is confirmed and the programme is finalised.
 
 :::
 
-:::
+::::
 
-::: {.slot}
+:::: {.slot}
 [12:05 – 12:30]{.slot__time}
 
 ::: {.slot__body}
@@ -54,9 +54,9 @@ speaker is confirmed and the programme is finalised.
 
 :::
 
-:::
+::::
 
-::: {.slot}
+:::: {.slot}
 [12:30 – 12:55]{.slot__time}
 
 ::: {.slot__body}
@@ -73,19 +73,9 @@ speaker is confirmed and the programme is finalised.
 
 :::
 
-:::
+::::
 
-:::
+:::::
 
-:::
-
-::: {.slot .slot--break}
-[13:00 – 14:00]{.slot__time}
-
-::: {.slot__body}
-[Lunch]{.slot__title}
-
-:::
-
-:::
+::::::
 
