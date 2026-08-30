@@ -28,7 +28,7 @@ format:
     </span>
   </div>
   <p class="meeting-banner__eyebrow">Joint Two-day Meeting 2026</p>
-  <h1>Two Days of Statistics</h1>
+  <!-- <h1>Two Days of Statistics</h1> -->
   <p class="meeting-banner__tagline">
     The Danish Society for Statistics (DSTS) and the Danish Society
     for Biopharmaceutical Statistics (DSBS) invite you to a two-day scientific
@@ -50,7 +50,7 @@ format:
   </span></li>
   
   <li><span class="facts__label">Registration</span>
-      <span class="facts__value">Opens <span class="tba">TBA</span></span></li>
+      <span class="facts__value"><span class="tba">TBA</span></span></li>
 
   <!-- <li><span class="facts__label">Abstracts</span> -->
   <!--     <span class="facts__value">Deadline <span class="tba">TBA</span></span></li> -->
@@ -62,12 +62,12 @@ format:
 ::: {.day__head}
 [Day 1]{.day__no} · 
 [Thursday, 19th Novemeber]{.day__date}
-[Observational studies · Randomised studies · AI]{.day__note}
+[Observational studies · Randomized studies · AI]{.day__note}
 :::
 
 <!-- :::: {.slot .slot--break} -->
 :::: {.slot}
-[09:00 – 09:30]{.slot__time}
+[11:30 – 12:00]{.slot__time}
 
 ::: {.slot__body}
 [Arrival and registration]{.slot__title}
@@ -76,7 +76,7 @@ format:
 ::::
 
 :::: {.slot}
-[09:30 – 09:45]{.slot__time}
+[12:00 – 12:15]{.slot__time}
 
 ::: {.slot__body}
 [Welcome and opening remarks]{.slot__title}
@@ -88,7 +88,7 @@ format:
 {{< include _day1_session1.qmd >}}
 
 :::: {.slot .slot--break}
-[11:15 – 11:35]{.slot__time}
+[13:45 – 14:15]{.slot__time}
 
 ::: {.slot__body}
 [Break]{.slot__title}
@@ -99,7 +99,7 @@ format:
 {{< include _day1_session2.qmd >}}
 
 :::: {.slot .slot--break}
-[11:15 – 11:35]{.slot__time}
+[15:45 – 16:15]{.slot__time}
 
 ::: {.slot__body}
 [Break]{.slot__title}
@@ -110,7 +110,7 @@ format:
 {{< include _day1_session3.qmd >}}
 
 :::: {.slot .slot--feature}
-[18:30 – ]{.slot__time}
+[18:30 – 22:00]{.slot__time}
 
 ::: {.slot__body}
 [Conference dinner]{.slot__title}
@@ -128,11 +128,21 @@ format:
 [Time-to-event · Pharmaceutical statistics]{.day__note}
 :::
 
+:::: {.slot}
+[08:30 – 09:00]{.slot__time}
+
+::: {.slot__body}
+[Coffee and arrival]{.slot__title}
+:::
+
+::::
+
+
 {{< include _day2_session1.qmd >}}
 
 
 :::: {.slot .slot--break}
-[11:15 – 11:35]{.slot__time}
+[10:45 – 11:15]{.slot__time}
 
 ::: {.slot__body}
 [Break]{.slot__title}
@@ -142,16 +152,14 @@ format:
 
 {{< include _day2_session2.qmd >}}
 
-<!-- ::: {.slot} -->
-<!-- [15:00 – 15:20]{.slot__time} -->
+:::: {.slot .slot--break}
+[12:35]{.slot__time}
 
-<!-- ::: {.slot__body} -->
-<!-- [Closing remarks and award for best contributed talk]{.slot__title} -->
-<!-- [Chairs of DSTS and DSBS]{.slot__meta} -->
+::: {.slot__body}
+[Meeting closes - sandwiches to-go]{.slot__title}
+:::
 
-<!-- ::: -->
-
-<!-- ::: -->
+::::
 
 
 ## Practical information {#practical}

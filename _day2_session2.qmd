@@ -3,7 +3,7 @@
 :::::: {.session .session--pharma}
 
 ::::: {.session__head}
-[Session 5 · 12:30 – 15:00]{.session__tag}
+[Session 5 · 11:15 – 12:35]{.session__tag}
 
 ```{=html}
 <h4 class="session__title">Topics in Pharmaceutical Statistics</h4>
@@ -19,17 +19,17 @@ Chair: **Julie Funch Furberg** · Regulatory science, drug development and bioma
 ::::: {.session__body}
 
 :::: {.slot}
-[12:30 – 13:00]{.slot__time}
+[11:15 – 11:35]{.slot__time}
 
 ::: {.slot__body}
-[Invited talk: [Title TBA]{.tba}]{.slot__title}
+[[Title TBA]{.tba}]{.slot__title}
 [[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
 
 <details class="abstract">
 <summary>Abstract</summary>
 
 [Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalised.
+speaker is confirmed and the programme is finalized.
 
 </details>
 
@@ -38,7 +38,26 @@ speaker is confirmed and the programme is finalised.
 ::::
 
 :::: {.slot}
-[13:00 – 13:25]{.slot__time}
+[11:35 – 11:55]{.slot__time}
+
+::: {.slot__body}
+[[Title TBA]{.tba}]{.slot__title}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
+speaker is confirmed and the programme is finalized.
+
+</details>
+
+:::
+
+::::
+
+:::: {.slot}
+[11:55 – 12:15]{.slot__time}
 
 ::: {.slot__body}
 [Contributed talk: [Title TBA]{.tba}]{.slot__title}
@@ -48,7 +67,7 @@ speaker is confirmed and the programme is finalised.
 <summary>Abstract</summary>
 
 [Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalised.
+speaker is confirmed and the programme is finalized.
 
 </details>
 
@@ -57,7 +76,7 @@ speaker is confirmed and the programme is finalised.
 ::::
 
 :::: {.slot}
-[13:25 – 13:50]{.slot__time}
+[12:15 – 12:35]{.slot__time}
 
 ::: {.slot__body}
 [Contributed talk: [Title TBA]{.tba}]{.slot__title}
@@ -67,26 +86,7 @@ speaker is confirmed and the programme is finalised.
 <summary>Abstract</summary>
 
 [Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalised.
-
-</details>
-
-:::
-
-::::
-
-:::: {.slot}
-[14:10 – 14:35]{.slot__time}
-
-::: {.slot__body}
-[Contributed talk: [Title TBA]{.tba}]{.slot__title}
-[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
-
-<details class="abstract">
-<summary>Abstract</summary>
-
-[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalised.
+speaker is confirmed and the programme is finalized.
 
 </details>
 

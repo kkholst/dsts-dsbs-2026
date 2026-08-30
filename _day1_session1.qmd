@@ -3,7 +3,7 @@
 :::::: {.session .session--observational}
 
 ::::: {.session__head}
-[Session 1 · 09:45 – 11:15]{.session__tag}
+[Session 1 · 12:15 – 13:45]{.session__tag}
 
 ```{=html}
 <h4 class="session__title">Observational Studies</h4>
@@ -19,7 +19,7 @@ Chair: **[TBA]{.tba}** · Causal inference, confounding and real-world evidence
 ::::: {.session__body}
 
 :::: {.slot}
-[09:45 – 10:15]{.slot__time}
+[12:15 – 12:45]{.slot__time}
 
 ::: {.slot__body}
 [Target trial emulation versus real trials, concepts and challenges]{.slot__title}
@@ -29,7 +29,7 @@ Chair: **[TBA]{.tba}** · Causal inference, confounding and real-world evidence
 <summary>Abstract</summary>
 
 [Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalised.
+speaker is confirmed and the programme is finalized.
 
 </details>
 
@@ -38,7 +38,7 @@ speaker is confirmed and the programme is finalised.
 ::::
 
 :::: {.slot}
-[10:15 – 10:40]{.slot__time}
+[12:45 – 13:15]{.slot__time}
 
 ::: {.slot__body}
 [Outcome-adapted Automatic Debiased Machine Learning]{.slot__title}
@@ -48,7 +48,7 @@ speaker is confirmed and the programme is finalised.
 <summary>Abstract</summary>
 
 [Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalised.
+speaker is confirmed and the programme is finalized.
 
 </details>
 
@@ -57,7 +57,7 @@ speaker is confirmed and the programme is finalised.
 ::::
 
 :::: {.slot}
-[10:40 – 11:05]{.slot__time}
+[13:15 – 13:45]{.slot__time}
 
 ::: {.slot__body}
 [[Title TBA]{.tba}]{.slot__title}
@@ -67,7 +67,7 @@ speaker is confirmed and the programme is finalised.
 <summary>Abstract</summary>
 
 [Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalised.
+speaker is confirmed and the programme is finalized.
 
 </details>
 

@@ -3,7 +3,7 @@
 :::::: {.session .session--tte}
 
 ::::: {.session__head}
-[Session 4 · 09:15 – 11:30]{.session__tag}
+[Session 4 · 09:00 – 10:45]{.session__tag}
 
 ```{=html}
 <h4 class="session__title">Topics in Time-to-Event</h4>
@@ -19,17 +19,17 @@ Chair: **[TBA]{.tba}** · Survival analysis, competing risks and multistate mode
 ::::: {.session__body}
 
 :::: {.slot}
-[09:15 – 09:45]{.slot__time}
+[09:00 – 09:45]{.slot__time}
 
 ::: {.slot__body}
-[Invited talk: [Title TBA]{.tba}]{.slot__title}
-[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+[Keynote: [Title TBA]{.tba}]{.slot__title}
+[Per Kragh Andersen · Section of Biostatistics, University of Copenhagen]{.slot__meta}
 
 <details class="abstract">
 <summary>Abstract</summary>
 
 [Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalised.
+speaker is confirmed and the programme is finalized.
 
 </details>
 
@@ -38,17 +38,17 @@ speaker is confirmed and the programme is finalised.
 ::::
 
 :::: {.slot}
-[09:45 – 10:10]{.slot__time}
+[09:45 – 10:15]{.slot__time}
 
 ::: {.slot__body}
-[Contributed talk: [Title TBA]{.tba}]{.slot__title}
-[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+[[Title TBA]{.tba}]{.slot__title}
+[Erik Parner · Department of Biostatistics, University of Aarhus]{.slot__meta}
 
 <details class="abstract">
 <summary>Abstract</summary>
 
 [Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalised.
+speaker is confirmed and the programme is finalized.
 
 </details>
 
@@ -57,17 +57,17 @@ speaker is confirmed and the programme is finalised.
 ::::
 
 :::: {.slot}
-[10:35 – 11:00]{.slot__time}
+[10:15 – 10:45]{.slot__time}
 
 ::: {.slot__body}
-[Contributed talk: [Title TBA]{.tba}]{.slot__title}
-[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+[[Title TBA]{.tba}]{.slot__title}
+[Thomas Scheike · Section of Biostatistics, University of Copenhagen]{.slot__meta}
 
 <details class="abstract">
 <summary>Abstract</summary>
 
 [Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalised.
+speaker is confirmed and the programme is finalized.
 
 </details>
 

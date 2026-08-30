@@ -3,14 +3,14 @@
 :::::: {.session .session--ai}
 
 ::::: {.session__head}
-[Session 3 · 14:00 – 16:00]{.session__tag}
+[Session 3 · 16:15 – 17:45]{.session__tag}
 
 ```{=html}
 <h4 class="session__title">Statisticians in an AI Era</h4>
 ```
 
 :::: {.session__chair}
-Chair: **[TBA]{.tba}** · Machine learning, foundation models and the role of the statistician
+Chair: Anders Gorst-Rasmussen, Novo Nordisk · Machine learning, foundation models and the role of the statistician
 
 ::::
 
@@ -19,11 +19,11 @@ Chair: **[TBA]{.tba}** · Machine learning, foundation models and the role of th
 ::::: {.session__body}
 
 :::: {.slot .slot--feature}
-[14:00 – 14:45]{.slot__time}
+[16:15 – 17:00]{.slot__time}
 
 ::: {.slot__body}
 [Keynote: [Title TBA]{.tba}]{.slot__title}
-[[Keynote speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+[Alexandre Templier · [Affiliation TBA]{.tba}]{.slot__meta}
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -38,11 +38,16 @@ speaker is confirmed and the programme is finalised.
 ::::
 
 :::: {.slot}
-[15:35 – 16:00]{.slot__time}
+[17:00 – 17:35]{.slot__time}
 
 ::: {.slot__body}
 [Panel: What should statisticians do differently?]{.slot__title}
-[Panellists [TBA]{.tba}]{.slot__meta}
+[Niels Richard Hansen · Department of Mathematical Sciences, University of Copenhagen]{.slot__meta}
+[Theis Lange · Institute for Public Health, University of
+Copenhagen]{.slot__meta}
+[Christian Laut Ebbesen · Lundbeck A/S]{.slot__meta}
+[Alexandre Templier · ]{.slot__meta}
+
 
 :::
 
