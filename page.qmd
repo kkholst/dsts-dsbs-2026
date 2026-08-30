@@ -177,18 +177,12 @@ format:
 
 - Klaus Kähler Holst (Novo Nordisk)
 - Henrik Ravn (Novo Nordisk)
-- Corine Baayen (DSBS - Lundbeck)
-- Birgitte Biilmann Rønn (DSTS - Zealand Pharma)
+- Birgitte Biilmann Rønn (Zealand Pharma, DSTS)
 
 :::
 
 ::: {.organisers__col}
-**Registration**
-
-- Members: [TBA]{.tba}
-- Non-members: [TBA]{.tba}
-- Students / PhD: [TBA]{.tba}
-- Includes lunch and coffee
+**Organizing committee**
 
 :::
 
