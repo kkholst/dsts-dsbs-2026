@@ -42,7 +42,7 @@ speaker is confirmed and the programme is finalized.
 
 ::: {.slot__body}
 [[Title TBA]{.tba}]{.slot__title}
-[Erik Parner · Department of Biostatistics, University of Aarhus]{.slot__meta}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -61,7 +61,7 @@ speaker is confirmed and the programme is finalized.
 
 ::: {.slot__body}
 [[Title TBA]{.tba}]{.slot__title}
-[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+[Erik Parner · Department of Biostatistics, University of Aarhus]{.slot__meta}
 
 <details class="abstract">
 <summary>Abstract</summary>
