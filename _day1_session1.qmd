@@ -10,7 +10,7 @@
 ```
 
 :::: {.session__chair}
-Chair: **[TBA]{.tba}** · Causal inference, confounding and real-world evidence
+Chair: Julie Funch Furberg, Novo Nordisk · Causal inference, confounding and real-world evidence
 ::::
 
 :::::

@@ -10,7 +10,7 @@
 ```
 
 :::: {.session__chair}
-Chair: **Julie Funch Furberg** · Regulatory science, drug development and biomarkers
+Chair: Julie Funch Furberg, Novo Nordisk · Regulatory science, drug development and biomarkers
 
 ::::
 
@@ -60,7 +60,7 @@ speaker is confirmed and the programme is finalized.
 [11:55 – 12:15]{.slot__time}
 
 ::: {.slot__body}
-[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Title TBA]{.tba}]{.slot__title}
 [[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
 
 <details class="abstract">
@@ -79,7 +79,7 @@ speaker is confirmed and the programme is finalized.
 [12:15 – 12:35]{.slot__time}
 
 ::: {.slot__body}
-[Contributed talk: [Title TBA]{.tba}]{.slot__title}
+[[Title TBA]{.tba}]{.slot__title}
 [[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
 
 <details class="abstract">

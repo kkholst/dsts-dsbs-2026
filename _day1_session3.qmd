@@ -46,6 +46,7 @@ speaker is confirmed and the programme is finalised.
 [Theis Lange · Institute for Public Health, University of
 Copenhagen]{.slot__meta}
 [Christian Laut Ebbesen · Lundbeck A/S]{.slot__meta}
+[[Panelist TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
 [Alexandre Templier · ]{.slot__meta}
 
 

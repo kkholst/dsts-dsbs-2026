@@ -23,7 +23,7 @@ Chair: **[TBA]{.tba}** · Trial design, estimands and adaptive methods
 
 ::: {.slot__body}
 [[Title TBA]{.tba}]{.slot__title}
-[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+[Thomas Scheike · Section of Biostatistics, University of Copenhagen]{.slot__meta}
 
 <details class="abstract">
 <summary>Abstract</summary>

@@ -10,7 +10,7 @@
 ```
 
 :::: {.session__chair}
-Chair: **[TBA]{.tba}** · Survival analysis, competing risks and multistate models
+Chair: Henrik Ravn, Novo Nordisk · Survival analysis, competing risks and multistate models
 
 ::::
 
@@ -61,7 +61,7 @@ speaker is confirmed and the programme is finalized.
 
 ::: {.slot__body}
 [[Title TBA]{.tba}]{.slot__title}
-[Thomas Scheike · Section of Biostatistics, University of Copenhagen]{.slot__meta}
+[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
 
 <details class="abstract">
 <summary>Abstract</summary>
