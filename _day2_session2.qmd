@@ -19,7 +19,36 @@ Chair: Julie Funch Furberg, Novo Nordisk · Regulatory science, drug development
 ::::: {.session__body}
 
 :::: {.slot}
-[11:15 – 11:35]{.slot__time}
+[11:15 – 11:45]{.slot__time}
+
+::: {.slot__body}
+[One-step Outcome Imputation: An
+Alternative to Multiple Imputation]{.slot__title}
+[Andreas Nordland · Novo Nordisk]{.slot__meta}
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+Missing outcomes in randomized controlled trials are often handled by multiple
+imputation (MI). Rubin’s rules are routinely used to estimate standard errors
+but can fail to provide valid standard error estimates for some commonly used
+procedures, such as reference-based imputation. We propose a one-step
+alternative by explicitly targeting the treatment effect implied by a given
+imputation model and constructing an efficient one-step estimator for that
+treatment effect via its influence function. Unlike Rubin’s rules, this approach
+yields asymptotically valid inference. Moreover, the proposed method circumvents
+the stochastic component and computational burden of MI. We illustrate the
+approach with examples spanning a range of imputation models, including
+reference-based imputation and intercurrent-event-dependent imputation.
+
+</details>
+
+:::
+
+::::
+
+:::: {.slot}
+[11:45 – 12:05]{.slot__time}
 
 ::: {.slot__body}
 [[Title TBA]{.tba}]{.slot__title}
@@ -38,7 +67,7 @@ speaker is confirmed and the programme is finalized.
 ::::
 
 :::: {.slot}
-[11:35 – 11:55]{.slot__time}
+[12:05 – 12:25]{.slot__time}
 
 ::: {.slot__body}
 [[Title TBA]{.tba}]{.slot__title}
@@ -56,43 +85,24 @@ speaker is confirmed and the programme is finalized.
 
 ::::
 
-:::: {.slot}
-[11:55 – 12:15]{.slot__time}
+<!-- :::: {.slot} -->
+<!-- [12:15 – 12:35]{.slot__time} -->
 
-::: {.slot__body}
-[[Title TBA]{.tba}]{.slot__title}
-[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
+<!-- ::: {.slot__body} -->
+<!-- [[Title TBA]{.tba}]{.slot__title} -->
+<!-- [[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta} -->
 
-<details class="abstract">
-<summary>Abstract</summary>
+<!-- <details class="abstract"> -->
+<!-- <summary>Abstract</summary> -->
 
-[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalized.
+<!-- [Abstract TBA]{.tba} --- the abstract for this talk will be added once the -->
+<!-- speaker is confirmed and the programme is finalized. -->
 
-</details>
+<!-- </details> -->
 
-:::
+<!-- ::: -->
 
-::::
-
-:::: {.slot}
-[12:15 – 12:35]{.slot__time}
-
-::: {.slot__body}
-[[Title TBA]{.tba}]{.slot__title}
-[[Speaker TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
-
-<details class="abstract">
-<summary>Abstract</summary>
-
-[Abstract TBA]{.tba} --- the abstract for this talk will be added once the
-speaker is confirmed and the programme is finalized.
-
-</details>
-
-:::
-
-::::
+<!-- :::: -->
 
 :::::
 

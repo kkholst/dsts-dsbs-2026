@@ -23,7 +23,7 @@ Chair: Anders Gorst-Rasmussen, Novo Nordisk · Machine learning, foundation mode
 
 ::: {.slot__body}
 [Keynote: [Title TBA]{.tba}]{.slot__title}
-[Alexandre Templier · [Affiliation TBA]{.tba}]{.slot__meta}
+[ · [Affiliation TBA]{.tba}]{.slot__meta}
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -47,8 +47,8 @@ speaker is confirmed and the programme is finalised.
 Copenhagen]{.slot__meta}
 [Christian Laut Ebbesen · Lundbeck A/S]{.slot__meta}
 [[Panelist TBA]{.tba} · [Affiliation TBA]{.tba}]{.slot__meta}
-[Alexandre Templier · ]{.slot__meta}
-
+[ · ]{.slot__meta}
+[ · ]{.slot__meta}
 
 :::
 
