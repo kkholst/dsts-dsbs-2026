@@ -1,28 +1,28 @@
 [
   {
-    "objectID": "page.html",
-    "href": "page.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Scientific Programme",
     "section": "",
     "text": "Hosted by\n      \n    \n  \n  Joint Two-day Meeting 2026\n  \n  \n    The Danish Society for Statistics (DSTS) and the Danish Society\n    for Biopharmaceutical Statistics (DSBS) invite you to a two-day scientific\n    meeting spanning causal inference, clinical trials, \n    survival analysis, and AI, hosted by Novo Nordisk."
   },
   {
-    "objectID": "page.html#day-1",
-    "href": "page.html#day-1",
+    "objectID": "index.html#day-1",
+    "href": "index.html#day-1",
     "title": "Scientific Programme",
     "section": "Day 1",
     "text": "Day 1\n\nDay 1 · Thursday, 19th Novemeber Observational studies · Randomized studies · AI\n\n\n\n11:30 – 12:00\n\nArrival and registration\n\n\n\n12:00 – 12:15\n\nWelcome and opening remarks Chairs of DSTS and DSBS\n\n\n\nSession 1 — Observational Studies\n\n\nSession 1 · 12:15 – 13:45\nObservational Studies\n\nChair: Julie Funch Furberg, Novo Nordisk · Causal inference, confounding and real-world evidence\n\n\n\n\n12:15 – 12:45\n\nTarget trial emulation versus real trials, concepts and challenges Christian Torp-Pedersen · Steno Diabetes Center Copenhagen\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.\n\n\n\n\n12:45 – 13:15\n\nTitle TBA Speaker TBA · Affiliation TBA\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.\n\n\n\n\n13:15 – 13:45\n\nOutcome-adapted Automatic Debiased Machine Learning Asger Waagepetersen & Asbjørn Risom · Department of Mathematical Sciences, University of Copenhagen\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.\n\n\n\n\n\n\n13:45 – 14:15\n\nBreak\n\n\n\n\nSession 2 — Randomized Studies\n\n\nSession 2 · 14:15 – 15:45\nRandomized Studies\n\nChair: TBA · Trial design, estimands and adaptive methods\n\n\n\n\n14:15 – 14:45\n\nTitle TBA Thomas Scheike · Section of Biostatistics, University of Copenhagen\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.\n\n\n\n\n14:45 – 15:15\n\nTitle TBA Anne Lyngholm Sørensen · Novo Nordisk\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.\n\n\n\n\n15:15 – 15:45\n\nTitle TBA Speaker TBA · Affiliation TBA\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.\n\n\n\n\n\n\n15:45 – 16:15\n\nBreak\n\n\n\n\nSession 3 — Statisticians in an AI Era\n\n\nSession 3 · 16:15 – 17:45\nStatisticians in an AI Era\n\nChair: Anders Gorst-Rasmussen, Novo Nordisk · Machine learning, foundation models and the role of the statistician\n\n\n\n\n16:15 – 17:00\n\nKeynote: Title TBA · Affiliation TBA\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalised.\n\n\n\n\n17:00 – 17:35\n\nPanel: What should statisticians do differently? Niels Richard Hansen · Department of Mathematical Sciences, University of Copenhagen Theis Lange · Institute for Public Health, University of Copenhagen Christian Laut Ebbesen · Lundbeck A/S Panelist TBA · Affiliation TBA · ·\n\n\n\n\n\n18:30 – 22:00\n\nConference dinner Venue: Bernstoff Slot"
   },
   {
-    "objectID": "page.html#day-2",
-    "href": "page.html#day-2",
+    "objectID": "index.html#day-2",
+    "href": "index.html#day-2",
     "title": "Scientific Programme",
     "section": "Day 2",
     "text": "Day 2\n\nDay 2 · Friday, 20th Novemeber Time-to-event · Pharmaceutical statistics\n\n\n08:30 – 09:00\n\nCoffee and arrival\n\n\n\nSession 4 — Topics in Time-to-Event\n\n\nSession 4 · 09:00 – 10:45\nTopics in Time-to-Event\n\nChair: Henrik Ravn, Novo Nordisk · Survival analysis, competing risks and multistate models\n\n\n\n\n09:00 – 09:45\n\nKeynote: Title TBA Per Kragh Andersen · Section of Biostatistics, University of Copenhagen\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.\n\n\n\n\n09:45 – 10:15\n\nTitle TBA Speaker TBA · Affiliation TBA\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.\n\n\n\n\n10:15 – 10:45\n\nTitle TBA Erik Parner · Department of Biostatistics, University of Aarhus\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.\n\n\n\n\n\n\n10:45 – 11:15\n\nBreak\n\n\n\n\nSession 5 — Topics in Pharmaceutical Statistics\n\n\nSession 5 · 11:15 – 12:35\nTopics in Pharmaceutical Statistics\n\nChair: Julie Funch Furberg, Novo Nordisk · Regulatory science, drug development and biomarkers\n\n\n\n\n11:15 – 11:45\n\nOne-step Outcome Imputation: An Alternative to Multiple Imputation Andreas Nordland · Novo Nordisk\n\n\nAbstract\n\nMissing outcomes in randomized controlled trials are often handled by multiple imputation (MI). Rubin’s rules are routinely used to estimate standard errors but can fail to provide valid standard error estimates for some commonly used procedures, such as reference-based imputation. We propose a one-step alternative by explicitly targeting the treatment effect implied by a given imputation model and constructing an efficient one-step estimator for that treatment effect via its influence function. Unlike Rubin’s rules, this approach yields asymptotically valid inference. Moreover, the proposed method circumvents the stochastic component and computational burden of MI. We illustrate the approach with examples spanning a range of imputation models, including reference-based imputation and intercurrent-event-dependent imputation.\n\n\n\n\n11:45 – 12:05\n\nTitle TBA Speaker TBA · Affiliation TBA\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.\n\n\n\n\n12:05 – 12:25\n\nTitle TBA Speaker TBA · Affiliation TBA\n\n\nAbstract\n\nAbstract TBA — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n12:35\n\nMeeting closes - sandwiches to-go"
   },
   {
-    "objectID": "page.html#practical",
-    "href": "page.html#practical",
+    "objectID": "index.html#practical",
+    "href": "index.html#practical",
     "title": "Scientific Programme",
     "section": "Practical information",
     "text": "Practical information\n\n\n\n\n\n\nProgram committee\n\nKlaus Kähler Holst (Novo Nordisk)\nHenrik Ravn (Novo Nordisk)\nBirgitte Biilmann Rønn (Zealand Pharma, DSTS)\n\n\n\nOrganizing committee\n\n\nContact\n\nEmail: TBA\nDSTS: https://dsts.dk\nDSBS: https://dsbs.dk"
