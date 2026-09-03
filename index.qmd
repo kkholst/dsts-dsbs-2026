@@ -184,12 +184,15 @@ format:
 ::: {.organisers__col}
 **Organizing committee**
 
+- Monica Benedita Oliveira (Novo Nordisk)
+- Vibeke Frølich (Novo Nordisk)
+
 :::
 
 ::: {.organisers__col}
 **Contact**
 
-- Email: [TBA]{.tba}
+- Email: <mailto:dsbs_dsts_event@novonordisk.com> <!-- [TBA]{.tba} -->
 - DSTS: <https://dsts.dk>
 - DSBS: <https://dsbs.dk>
 
