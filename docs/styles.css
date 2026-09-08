@@ -509,6 +509,19 @@ section.level3 {
   letter-spacing: 0.02em;
 }
 
+.green {
+  display: inline-block;
+  padding: 0 0.35rem;
+  border-radius: 3px;
+  background: #cff4d6;
+  border: 1px dashed #39a441;
+  color: #2a5510;
+  font-size: 0.86em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+
 /* --------------------------------------------------------------------------
    Footer / organisers
    -------------------------------------------------------------------------- */
