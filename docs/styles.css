@@ -521,11 +521,11 @@ section.level3 {
   letter-spacing: 0.02em;
 }
 
-.green {
+.red {
   display: inline-block;
   padding: 0 0.35rem;
   border-radius: 3px;
-  background: #cff4d6;
+  background: #f0f0f;
   border: 1px dashed #99000;
   color: #ff0000;
   font-size: 0.86em;
