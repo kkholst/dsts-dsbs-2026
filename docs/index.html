@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-1d580660f9b649e6a70d5f169ebab5f2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -359,7 +359,9 @@ Abstract
 <summary>
 Abstract
 </summary>
-<p><span class="tba">Abstract TBA</span> — the abstract for this talk will be added once the speaker is confirmed and the programme is finalized.</p>
+<p>In this talk, I will review two approaches to analyse recurrent events data when there are competing risks in the form of terminal events such as all-cause death. The applied framework will be that of an RCT.</p>
+<p>The first is the classical approach based on transition intensities by which one attempts to model the full data generating process. As a consequence, one would be able to estimate all functionals, such as state occupation probabilities, sojourn times or expected number of events over time – maybe by simulations.</p>
+<p>The second is the marginal approach – in line with the modern estimand concept. Here, an estimand (a function of the full data generating model) is targeted without the ambition of specifying that model. Typically, one would target the expected number of events over time, or the probability of having at least k events. Interpretation of such an estimand, however, is challenged by the presence of a terminal event (‘kill the patient and there will be few recurrent events’!) I will discuss two approaches to take the terminal event into account: (1) combining recurrent and terminal events into a single number to target, (2) joint analysis of estimands for recurrent events and terminal event, e.g., expected number of events and survival probabilities for the terminal event.</p>
 </details>
 </div>
 </div>
